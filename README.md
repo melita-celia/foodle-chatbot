@@ -43,7 +43,7 @@ python filename.py
 * BeautifulSoup (Web scraping)
 
 ## Team Members
-Melita Lewis 
-Sushree Nadiminty
-Angelica Sebastian
-Shaun Noronha
+* Melita Lewis 
+* Sushree Nadiminty
+* Angelica Sebastian
+* Shaun Noronha
