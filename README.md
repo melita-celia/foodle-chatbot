@@ -1,2 +1,2 @@
 # foodle-chatbot
-A personalized food recommendation chatbot using machine learning and natural language processing :spaghetti:.
+A personalized Food Recommendation Chatbot using Machine Learning and Natural Language Processing :spaghetti:.
