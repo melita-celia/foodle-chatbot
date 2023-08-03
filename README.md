@@ -41,3 +41,9 @@ python filename.py
 * Tkinter (GUI)
 * Google Search API
 * BeautifulSoup (Web scraping)
+
+## Team Members
+Melita Lewis 
+Sushree Nadiminty
+Angelica Sebastian
+Shaun Noronha
