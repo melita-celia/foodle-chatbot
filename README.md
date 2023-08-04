@@ -47,3 +47,6 @@ python filename.py
 * Sushree Nadiminty
 * Angelica Sebastian
 * Shaun Noronha
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/melita-celia/foodle-chatbot/blob/main/LICENSE) file for details.
